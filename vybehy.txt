@@ -1,0 +1,7 @@
+#meno velkost_m2 je_cisty susedia...
+A1 15 ano A5 A2 A3
+A2 27 ano A1
+A3 12 ano A1 A4
+A4 18 ano A6 A3
+A5 25 ano A1
+A6 48 nie A4

@@ -1,0 +1,6 @@
+#nazov_druhu je_dravec velkost
+ovca nie stredne
+vlk ano stredne
+slon nie velke
+liska ano male
+vevericka nie male
